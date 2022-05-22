@@ -1,21 +1,19 @@
 import Dependencies._
 
 ThisBuild / organization := "org.grauulzz"
-ThisBuild / scalaVersion := "3.1.0"
+ThisBuild / scalaVersion := "2.12.15"
+ThisBuild / crossScalaVersions := Seq("2.12.15", "2.13.8")
 
 ThisBuild / scalacOptions ++=
   Seq(
     "-deprecation",
     "-feature",
     "-language:implicitConversions",
-    "-unchecked",
-    "-Xfatal-warnings",
-    "-Yexplicit-nulls", // experimental (I've seen it cause issues with circe)
-    "-Ykind-projector",
-    "-Ysafe-init", // experimental (I've seen it cause issues with circe)
-  ) ++ Seq("-old-syntax", "-rewrite") ++ Seq("-source", "future")
+    "-language:higherKinds",
+    "-unchecked"
+  )
 
-lazy val `codesig` =
+lazy val `elden-ring-update-scraper` =
   project
     .in(file("."))
     .settings(name := "elden-ring-update-scraper")
@@ -37,6 +35,8 @@ lazy val commonScalacOptions = Seq(
 
 lazy val dependencies = Seq(
   libraryDependencies ++= Seq(
+    "net.ruippeixotog" %% "scala-scraper" % "2.2.1",
+    "org.scalatest" %% "scalatest" % "2.12.15" % "test"
   ),
   libraryDependencies ++= Seq(
     org.scalatest.scalatest,

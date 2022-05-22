@@ -3,31 +3,33 @@
 - Provides an API for elden ring weapon updates
 - When a new update rolls out, this tool will parse the update looking for any and all changes made
 - If a change is found for a particular weapon type (ie... weapon is nerfed or buffed), an overwrite in the db will be executed
-- This tool aims to keep all elden ring weapons update to date for any service or website that may rely on this data
+- This tool aims to keep all elden ring weapons updated for any service or website that may rely on this data
 - The API will provide easy access to newly updated weapons
 - The API will respond in JSON format
 
-#### Example response of "GRAFTED BLADE GREATSWORD" buffed in recent patch
+#### Example response of "Grafted Blade Greatsword" buffed in recent patch
 
 ```
 {
   "name" : "Grafted Blade Greatsword",
-  "type" : "Colossal Sword"
+  "type" : "Colossal Sword",
   "version" : 1.04.1,
-  "released" : "April 27th 2022"
+  "released" : "April 27th 2022",
+  "description" : "Increased the damage of Grafted Blade Greatsword"
+  "platform" : "PlayStation 4 / PlayStation 5 / Xbox One / Xbox Series X|S / Steam"
   "attributes" : [
     {
-      "Attack" : ["Phy" : 162, "Mag" : 0, "Fire" : 0, "Ligt" : 0, "Holy" : 0, "Crit" : 100]
-      "Gaurd" : ["Phy" : 80, "Mag" : 48, "Fire" : 48, "Ligt" : 48, "Holy" : 48, "Boost": 53]
-      "Scaling" : ["Str" : "C", "Dex" : "E"]
-      "Requires" : ["Str" : 40, "Dex" : 14]
+      "Attack" : ["Phy" : 162, "Mag" : 0, "Fire" : 0, "Ligt" : 0, "Holy" : 0, "Crit" : 100],
+      "Guard" : ["Phy" : 80, "Mag" : 48, "Fire" : 48, "Ligt" : 48, "Holy" : 48, "Boost": 53],
+      "Scaling" : ["Str" : "C", "Dex" : "E"],
+      "Requires" : ["Str" : 40, "Dex" : 14],
       "Other" : ["Skill" : "Oath of Vengeance", "FP" : 20, "Wgt" : 21.0, "Passive" : null]
     }
   ]
   "buffed" : [
     {
-      "Attack" : ["Phy" : "+5"]
-      "Gaurd" : ["Boost" : "+10"]
+      "Attack" : ["Phy" : "+5"],
+      "Guard" : ["Boost" : "+10"]
     }
   ]
   "nerfed" : []
@@ -61,6 +63,19 @@ create a new web scraper to parse info from the Wiki and generate a new Json fil
 ## Concerns
 - scraping the waybackmachine may only find an extremely old entry, or no entry at all.
 - the sweet spot should be found between patches, so probably no more than a month old
+
+## Out of scope
+- when looking through recent updates, I found that sometimes the elden ring devs will make adjustments to lets say
+"jump attack" damage. Any other damage buff or nurf other than the attributes measurable from what is available
+on the elden ring wiki will be omitted. There is no "jump attack" attribute for a weapon. If it is possible to calculate
+this param than I might include it in the future. Another example is "Casting speed", which appears to be adjusted
+for magic type weapons often. Updates to something like casting speed should theoretically increase the dps of a weapon,
+however, once again, this would fall out of scope because dps is not listed under a weapons attributes by default.
+
+- As of right now, I'm only looking at weapons. Armor, Ashes of War, Talismans, Arrows, etc... could be implemented in the future
+
+- If a new weapon is added to game. However, this could possibly be an easy implementation with the current project so we'll see
+
 
 
 

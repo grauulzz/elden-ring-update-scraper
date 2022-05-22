@@ -1,0 +1,4929 @@
+[
+  {
+    "name": "Academy Glintstone Staff",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 28,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Alabaster Lord's Sword",
+    "weight": 8,
+    "defaultAshOfWar": "Alabaster Lords' Pull",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 12,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Albinauric Bow",
+    "weight": 4.5,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Albinauric Shield",
+    "weight": 4.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Albinauric Staff",
+    "weight": 2.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 10,
+      "faith": 0,
+      "arcane": 12
+    }
+  },
+  {
+    "name": "Ant's Skull Plate",
+    "weight": 13.5,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 28,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Antspur Rapier",
+    "weight": 3,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Arbalest",
+    "weight": 6,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Astrologer's Staff",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 0,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Axe of Godfrey",
+    "weight": 18,
+    "defaultAshOfWar": "Regal Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 42,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Axe of Godrick",
+    "weight": 11,
+    "defaultAshOfWar": "I Command Thee",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Azur's Glintstone Staff",
+    "weight": 4,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 52,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bandit's Curved Sword",
+    "weight": 5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Banished Knight's Greatsword",
+    "weight": 10,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 17,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Banished Knight's Halberd",
+    "weight": 8,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Banished Knight's Shield",
+    "weight": 6,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bastard Sword",
+    "weight": 9,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bastard's Stars",
+    "weight": 5.5,
+    "defaultAshOfWar": "Nebula",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 22,
+      "intelligence": 22,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Battle Axe",
+    "weight": 4.5,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Battle Hammer",
+    "weight": 10,
+    "defaultAshOfWar": "Braggart's Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Beast Crest Heater Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Beast-Repellent Torch",
+    "weight": 2.5,
+    "defaultAshOfWar": "Torch Attack",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Beastclaw Greathammer",
+    "weight": 9,
+    "defaultAshOfWar": "Regal Beastclaw",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Beastman's Cleaver",
+    "weight": 16.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 25,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Beastman's Curved Sword",
+    "weight": 4,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Beastman's Jar-Shield",
+    "weight": 5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Black Bow",
+    "weight": 4,
+    "defaultAshOfWar": "Barrage",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Black Knife",
+    "weight": 2,
+    "defaultAshOfWar": "Blade of Death",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Black Leather Shield",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Blade of Calling",
+    "weight": 1.5,
+    "defaultAshOfWar": "Blade of Gold",
+    "catalyst": false,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 15,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Blasphemous Blade",
+    "weight": 13.5,
+    "defaultAshOfWar": "Taker's Flames",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 21,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bloodhound Claws",
+    "weight": 3,
+    "defaultAshOfWar": "Bloodhound's Step",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bloodhound's Fang",
+    "weight": 11.5,
+    "defaultAshOfWar": "Bloodhound's Finesse",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 17,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bloodstained Dagger",
+    "weight": 2,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bloody Helice",
+    "weight": 8,
+    "defaultAshOfWar": "Dynast's Finesse",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 19,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 17
+    }
+  },
+  {
+    "name": "Blue Crest Heater Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Blue-Gold Kite Shield",
+    "weight": 5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Blue-White Wooden Shield",
+    "weight": 2,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Bolt of Gransax",
+    "weight": 8.5,
+    "defaultAshOfWar": "Ancient Lightning Spear",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 40,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Brass Shield",
+    "weight": 7,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Briar Greatshield",
+    "weight": 9.5,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 21,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Brick Hammer",
+    "weight": 12.5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 31,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Broadsword",
+    "weight": 4,
+    "defaultAshOfWar": "Square Off",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Buckler",
+    "weight": 1.5,
+    "defaultAshOfWar": "Buckler Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Butchering Knife",
+    "weight": 8.5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Caestus",
+    "weight": 1.5,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Candletree Wooden Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cane Sword",
+    "weight": 2.5,
+    "defaultAshOfWar": "Square Off",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Carian Glintblade Staff",
+    "weight": 2.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 12,
+      "intelligence": 22,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Carian Glintstone Staff",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 8,
+      "intelligence": 24,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Carian Knight's Shield",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 15,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Carian Knight's Sword",
+    "weight": 4,
+    "defaultAshOfWar": "Carian Grandeur",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Carian Regal Scepter",
+    "weight": 3,
+    "defaultAshOfWar": "Spinning Weapon",
+    "catalyst": true,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 60,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Celebrant's Cleaver",
+    "weight": 4.5,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Celebrant's Flame Art Cleaver Blades",
+    "weight": 4.5,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Celebrant's Rib-Rake",
+    "weight": 5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Celebrant's Sickle",
+    "weight": 1.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Celebrant's Skull",
+    "weight": 8.5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Chainlink Flail",
+    "weight": 8,
+    "defaultAshOfWar": "Spinning Chain",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cinquedea",
+    "weight": 3.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cipher Pata",
+    "weight": 0,
+    "defaultAshOfWar": "Unblockable Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 30,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Clawmark Seal",
+    "weight": 1.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 4,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 10,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Clayman's Harpoon",
+    "weight": 5.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 10,
+      "intelligence": 12,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Claymore",
+    "weight": 9,
+    "defaultAshOfWar": "Lion's Claw",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cleanrot Knight's Sword",
+    "weight": 4,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cleanrot Spear",
+    "weight": 5.5,
+    "defaultAshOfWar": "Sacred Phalanx",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Clinging Bone",
+    "weight": 3,
+    "defaultAshOfWar": "Lifesteal Fist",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 16
+    }
+  },
+  {
+    "name": "Club",
+    "weight": 3.5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Coded Sword",
+    "weight": 2.5,
+    "defaultAshOfWar": "Unblockable Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 20,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Coil Shield",
+    "weight": 1.5,
+    "defaultAshOfWar": "Viper Bite",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Commander's Standard",
+    "weight": 11.5,
+    "defaultAshOfWar": "Rallying Standard",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Composite Bow",
+    "weight": 3,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cranial Vessel Candlestand",
+    "weight": 12.5,
+    "defaultAshOfWar": "Surge of Faith",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 22,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crepus's Black-Key Crossbow",
+    "weight": 5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crescent Moon Axe",
+    "weight": 12.5,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 25,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cross-Naginata",
+    "weight": 8,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crossed-Tree Towershield",
+    "weight": 16,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crucible Hornshield",
+    "weight": 11.5,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crystal Knife",
+    "weight": 2,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 12,
+      "intelligence": 9,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crystal Spear",
+    "weight": 5.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crystal Staff",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 48,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Crystal Sword",
+    "weight": 4.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 10,
+      "intelligence": 15,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Cuckoo Greatshield",
+    "weight": 15,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 32,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Curved Club",
+    "weight": 5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 7,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Curved Great Club",
+    "weight": 10,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dagger",
+    "weight": 1.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 5,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dark Moon Greatsword",
+    "weight": 10,
+    "defaultAshOfWar": "Moonlight Greatsword",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 11,
+      "intelligence": 38,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Death Ritual Spear",
+    "weight": 6.5,
+    "defaultAshOfWar": "Spearcall Ritual",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 20,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Death's Poker",
+    "weight": 8.5,
+    "defaultAshOfWar": "Ghostflame Ignition",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 17,
+      "intelligence": 11,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Demi-Human Queen's Staff",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 10,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Devourer's Scepter",
+    "weight": 11.5,
+    "defaultAshOfWar": "Devourer of Worlds",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 25,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Digger's Staff",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 12,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dismounter",
+    "weight": 10,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 19,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Distinguished Greatshield",
+    "weight": 17,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 32,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dragon Communion Seal",
+    "weight": 0,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 10,
+      "arcane": 10
+    }
+  },
+  {
+    "name": "Dragon Greatclaw",
+    "weight": 16,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dragon Halberd",
+    "weight": 10.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dragon King's Cragblade",
+    "weight": 8,
+    "defaultAshOfWar": "Thundercloud Form",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 37,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dragon Towershield",
+    "weight": 17.5,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dragonclaw Shield",
+    "weight": 13.5,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 28,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Dragonscale Blade",
+    "weight": 5.5,
+    "defaultAshOfWar": "Ice Lightning Sword",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Duelist Greataxe",
+    "weight": 20,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Eclipse Crest Greatshield",
+    "weight": 15,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 32,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Eclipse Crest Heater Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Eclipse Shotel",
+    "weight": 3,
+    "defaultAshOfWar": "Death Flare",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 25,
+      "intelligence": 0,
+      "faith": 30,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Eleonora's Poleblade",
+    "weight": 6,
+    "defaultAshOfWar": "Bloodblade Dance",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 21,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 19
+    }
+  },
+  {
+    "name": "Envoy's Greathorn",
+    "weight": 19.5,
+    "defaultAshOfWar": "Great Oracular Bubble",
+    "catalyst": false,
+    "requirements": {
+      "strength": 28,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 24,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Envoy's Horn",
+    "weight": 4,
+    "defaultAshOfWar": "Oracular Bubble",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 16,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Envoy's Long Horn",
+    "weight": 9.5,
+    "defaultAshOfWar": "Bubble Shower",
+    "catalyst": false,
+    "requirements": {
+      "strength": 23,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Erdsteel Dagger",
+    "weight": 2,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Erdtree Bow",
+    "weight": 4,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Erdtree Greatbow",
+    "weight": 11,
+    "defaultAshOfWar": "Through and Through",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Erdtree Greatshield",
+    "weight": 13.5,
+    "defaultAshOfWar": "Golden Retaliation",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 12,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Erdtree Seal",
+    "weight": 0,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 40,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Estoc",
+    "weight": 4.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Executioner's Greataxe",
+    "weight": 15,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Falchion",
+    "weight": 3.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Fallingstar Beast Jaw",
+    "weight": 21.5,
+    "defaultAshOfWar": "Gravity Bolt",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 12,
+      "intelligence": 20,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Family Heads",
+    "weight": 5.5,
+    "defaultAshOfWar": "Familal Rancor",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 18,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Finger Seal",
+    "weight": 1.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 4,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 10,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Fingerprint Stone Shield",
+    "weight": 29,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 48,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Flail",
+    "weight": 5,
+    "defaultAshOfWar": "Spinning Chain",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Flamberge",
+    "weight": 10,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Flame Crest Wooden Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Flowing Curved Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 17,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Forked Greatsword",
+    "weight": 9,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Forked Hatchet",
+    "weight": 2.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Frenzied Flame Seal",
+    "weight": 0,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Frozen Needle",
+    "weight": 2.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Full Moon Crossbow",
+    "weight": 4,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 14,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Black Axe",
+    "weight": 8.5,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 22,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Black Blades",
+    "weight": 8.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 22,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Black Halberd",
+    "weight": 12,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 22,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Blackblade",
+    "weight": 11.5,
+    "defaultAshOfWar": "Corpse Wax Cutter",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 22,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Great Axe",
+    "weight": 8.5,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Greatsword",
+    "weight": 11.5,
+    "defaultAshOfWar": "Vacuum Slice",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Halberd",
+    "weight": 12,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gargoyle's Twinblade",
+    "weight": 8.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gelmir Glintstone Staff",
+    "weight": 2.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 14,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ghiza's Wheel",
+    "weight": 19,
+    "defaultAshOfWar": "Spinning Wheel",
+    "catalyst": false,
+    "requirements": {
+      "strength": 28,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ghostflame Torch",
+    "weight": 2.5,
+    "defaultAshOfWar": "Torch Attack",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 14,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Giant-Crusher",
+    "weight": 26.5,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 60,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Giant's Red Braid",
+    "weight": 2.5,
+    "defaultAshOfWar": "Flame Dance",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 21,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Giant's Seal",
+    "weight": 1.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 4,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gilded Greatshield",
+    "weight": 17.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 36,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gilded Iron Shield",
+    "weight": 3,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Glaive",
+    "weight": 10,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Glintstone Kris",
+    "weight": 1.5,
+    "defaultAshOfWar": "Glintstone Dart",
+    "catalyst": false,
+    "requirements": {
+      "strength": 5,
+      "dexterity": 12,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Glintstone Staff",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 10,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Godskin Peeler",
+    "weight": 8,
+    "defaultAshOfWar": "Black Flame Tornado",
+    "catalyst": false,
+    "requirements": {
+      "strength": 17,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Godskin Stitcher",
+    "weight": 7,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 17,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Godslayer's Greatsword",
+    "weight": 17.5,
+    "defaultAshOfWar": "The Queen's Black Flame",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 20,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Godslayer's Seal",
+    "weight": 1.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 4,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 27,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golden Beast Crest Shield",
+    "weight": 12.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golden Epitaph",
+    "weight": 3.5,
+    "defaultAshOfWar": "Last Rites",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golden Greatshield",
+    "weight": 17,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golden Halberd",
+    "weight": 13.5,
+    "defaultAshOfWar": "Golden Vow",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 12,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golden Order Greatsword",
+    "weight": 10,
+    "defaultAshOfWar": "Establish Order",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 21,
+      "intelligence": 0,
+      "faith": 28,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golden Order Seal",
+    "weight": 0,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 17,
+      "faith": 17,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golem Greatbow",
+    "weight": 14.5,
+    "defaultAshOfWar": "Through and Through",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Golem's Halberd",
+    "weight": 21.5,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 36,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Grafted Blade Greatsword",
+    "weight": 21,
+    "defaultAshOfWar": "Oath of Vengeance",
+    "catalyst": false,
+    "requirements": {
+      "strength": 40,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Grafted Dragon",
+    "weight": 2.5,
+    "defaultAshOfWar": "Bear Witness!",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 16,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Grave Scythe",
+    "weight": 9.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 17,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Gravel Stone Seal",
+    "weight": 1.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 4,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Club",
+    "weight": 17,
+    "defaultAshOfWar": "Golden Land",
+    "catalyst": false,
+    "requirements": {
+      "strength": 35,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Epee",
+    "weight": 6.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Knife",
+    "weight": 1.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Mace",
+    "weight": 11.5,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 28,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Omenkiller Cleaver",
+    "weight": 11,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 23,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Stars",
+    "weight": 10,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Great Turtle Shell",
+    "weight": 5.5,
+    "defaultAshOfWar": "Barricade Shield",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Greataxe",
+    "weight": 13,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Greatbow",
+    "weight": 10,
+    "defaultAshOfWar": "Through and Through",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Greathorn Hammer",
+    "weight": 10,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Greatsword",
+    "weight": 23,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 31,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Grossmesser",
+    "weight": 4.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Guardian's Swordspear",
+    "weight": 9,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 17,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Halberd",
+    "weight": 8,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Haligtree Crest Greatshield",
+    "weight": 18.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 36,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Halo Scythe",
+    "weight": 8.5,
+    "defaultAshOfWar": "Miquella's Ring of Light",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 15,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hammer",
+    "weight": 6.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 7,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hand Axe",
+    "weight": 3.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hand Ballista",
+    "weight": 10,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hand of Malenia",
+    "weight": 7,
+    "defaultAshOfWar": "Waterfowl Dance",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 48,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Harp Bow",
+    "weight": 2,
+    "defaultAshOfWar": "Barrage",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hawk Crest Wooden Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Heater Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Heavy Crossbow",
+    "weight": 5.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Helphen's Steeple",
+    "weight": 11.5,
+    "defaultAshOfWar": "Ruinous Ghostflame",
+    "catalyst": false,
+    "requirements": {
+      "strength": 19,
+      "dexterity": 10,
+      "intelligence": 22,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Highland Axe",
+    "weight": 4.5,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hookclaws",
+    "weight": 2,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Horn Bow",
+    "weight": 4.5,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 14,
+      "intelligence": 12,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Horse Crest Wooden Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Hoslow's Petal Whip",
+    "weight": 3.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ice Crest Shield",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Icerind Hatchet",
+    "weight": 3,
+    "defaultAshOfWar": "Hoarfrost Stomp",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Icon Shield",
+    "weight": 11.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Inquisitor's Girandole",
+    "weight": 7.5,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 16,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Inseparable Sword",
+    "weight": 10,
+    "defaultAshOfWar": "Sacred Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 20,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Inverted Hawk Heater Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Inverted Hawk Towershield",
+    "weight": 16,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Iron Ball",
+    "weight": 2.5,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Iron Cleaver",
+    "weight": 6,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 7,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Iron Greatsword",
+    "weight": 12,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Iron Roundshield",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Iron Spear",
+    "weight": 4.5,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ivory Sickle",
+    "weight": 2,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 11,
+      "intelligence": 13,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Jar Cannon",
+    "weight": 15,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Jawbone Axe",
+    "weight": 5.5,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Jellyfish Shield",
+    "weight": 8,
+    "defaultAshOfWar": "Contagious Fury",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Katar",
+    "weight": 2.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Kite Shield",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Knight's Greatsword",
+    "weight": 10,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lance",
+    "weight": 9,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Large Club",
+    "weight": 8.5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Large Leather Shield",
+    "weight": 3,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lazuli Glintstone Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Glintstone Pebble",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 9,
+      "intelligence": 13,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Light Crossbow",
+    "weight": 4,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lion Greatbow",
+    "weight": 9.5,
+    "defaultAshOfWar": "Radahn's Rain",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Longbow",
+    "weight": 4,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Longhaft Axe",
+    "weight": 12.5,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Longsword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Square Off",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lordsworn's Greatsword",
+    "weight": 9,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lordsworn's Shield",
+    "weight": 10,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lordsworn's Straight Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Square Off",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Loretta's War Sickle",
+    "weight": 10,
+    "defaultAshOfWar": "Loretta's Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 15,
+      "intelligence": 20,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lucerne",
+    "weight": 7,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Lusat's Glintstone Staff",
+    "weight": 4,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 52,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Mace",
+    "weight": 4.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 7,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Magma Blade",
+    "weight": 4,
+    "defaultAshOfWar": "Magma Shower",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 16,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Magma Whip Candlestick",
+    "weight": 2.5,
+    "defaultAshOfWar": "Sea of Magma",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Magma Wyrm's Scalesword",
+    "weight": 15,
+    "defaultAshOfWar": "Magma Guillotine",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Maliketh's Black Blade",
+    "weight": 22,
+    "defaultAshOfWar": "Destined Death",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 20,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Man-serpent's Heavy Shield",
+    "weight": 2,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Man-Serpent's Shield",
+    "weight": 2,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Manor Towershield",
+    "weight": 16,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Mantis Blade",
+    "weight": 4,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Marais Executioner's Sword",
+    "weight": 11.5,
+    "defaultAshOfWar": "Eochaid's Dancing Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 23
+    }
+  },
+  {
+    "name": "Marika's Hammer",
+    "weight": 6,
+    "defaultAshOfWar": "Gold Breaker",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 19,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Marred Leather Shield",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Marred Wooden Shield",
+    "weight": 4,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Meteoric Ore Blade",
+    "weight": 7.5,
+    "defaultAshOfWar": "Gravitas",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 14,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Meteorite Staff",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Miquellan Knight's Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Sacred Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 16,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Misbegotten Shortbow",
+    "weight": 3,
+    "defaultAshOfWar": "Barrage",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Misericorde",
+    "weight": 2,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Mohgwyn's Sacred Spear",
+    "weight": 10,
+    "defaultAshOfWar": "Bloodboon Ritual",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 27
+    }
+  },
+  {
+    "name": "Monk's Flameblade",
+    "weight": 9,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Monk's Flamemace",
+    "weight": 6,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Moonveil",
+    "weight": 6.5,
+    "defaultAshOfWar": "Transient Moonlight",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 18,
+      "intelligence": 23,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Morgott's Cursed Sword",
+    "weight": 7.5,
+    "defaultAshOfWar": "Cursed-Blood Slice",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 35,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 17
+    }
+  },
+  {
+    "name": "Morning Star",
+    "weight": 5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Nagakiba",
+    "weight": 7,
+    "defaultAshOfWar": "Unsheathe",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Nightrider Flail",
+    "weight": 6,
+    "defaultAshOfWar": "Spinning Chain",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 24,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Nightrider Glaive",
+    "weight": 12,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Noble's Estoc",
+    "weight": 3.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Noble's Slender Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Square Off",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Nox Flowing Hammer",
+    "weight": 6.5,
+    "defaultAshOfWar": "Flowing Form",
+    "catalyst": false,
+    "requirements": {
+      "strength": 17,
+      "dexterity": 7,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Nox Flowing Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Flowing Form",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Omen Cleaver",
+    "weight": 11.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 19,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "One-Eyed Shield",
+    "weight": 20.5,
+    "defaultAshOfWar": "Flame Spit",
+    "catalyst": false,
+    "requirements": {
+      "strength": 36,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Onyx Lord's Greatsword",
+    "weight": 11.5,
+    "defaultAshOfWar": "Onyx Lords' Repulsion",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 16,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ordovis's Greatsword",
+    "weight": 12,
+    "defaultAshOfWar": "Ordovis's Vortex",
+    "catalyst": false,
+    "requirements": {
+      "strength": 25,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 15,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ornamental Straight Sword",
+    "weight": 3,
+    "defaultAshOfWar": "Golden Tempering",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Parrying Dagger",
+    "weight": 1.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 5,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Partisan",
+    "weight": 6.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Perfumer's Shield",
+    "weight": 1.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Pest's Glaive",
+    "weight": 7,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Pickaxe",
+    "weight": 10,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 22,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Pike",
+    "weight": 7.5,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Pillory Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Prelate's Inferno Crozier",
+    "weight": 23.5,
+    "defaultAshOfWar": "Prelate's Charge",
+    "catalyst": false,
+    "requirements": {
+      "strength": 45,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Prince of Death's Staff",
+    "weight": 3,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 0,
+      "intelligence": 18,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Pulley Bow",
+    "weight": 5,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Pulley Crossbow",
+    "weight": 4,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rapier",
+    "weight": 2.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Raptor Talons",
+    "weight": 1.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Red Branch Shortbow",
+    "weight": 2.5,
+    "defaultAshOfWar": "Barrage",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Red Crest Heater Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Red Thorn Roundshield",
+    "weight": 1.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Redmane Greatshield",
+    "weight": 14,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Reduvia",
+    "weight": 2.5,
+    "defaultAshOfWar": "Reduvia Blood Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 5,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 13
+    }
+  },
+  {
+    "name": "Regalia of Eochaid",
+    "weight": 5.5,
+    "defaultAshOfWar": "Eochaid's Dancing Blade",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 15
+    }
+  },
+  {
+    "name": "Rickety Shield",
+    "weight": 1,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rift Shield",
+    "weight": 2,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ringed Finger",
+    "weight": 4.5,
+    "defaultAshOfWar": "Claw Flick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ripple Blade",
+    "weight": 4.5,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 20
+    }
+  },
+  {
+    "name": "Ripple Crescent Halberd",
+    "weight": 8.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 20
+    }
+  },
+  {
+    "name": "Rivers of Blood",
+    "weight": 6.5,
+    "defaultAshOfWar": "Corpse Piler",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 20
+    }
+  },
+  {
+    "name": "Riveted Wooden Shield",
+    "weight": 2,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rogier's Rapier",
+    "weight": 3.5,
+    "defaultAshOfWar": "Repeating Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 17,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rosus' Axe",
+    "weight": 5.5,
+    "defaultAshOfWar": "Rosus's Summons",
+    "catalyst": false,
+    "requirements": {
+      "strength": 18,
+      "dexterity": 10,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rotten Battle Hammer",
+    "weight": 10,
+    "defaultAshOfWar": "Braggart's Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rotten Crystal Spear",
+    "weight": 5.5,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rotten Crystal Staff",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 48,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rotten Crystal Sword",
+    "weight": 4.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 10,
+      "intelligence": 15,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rotten Greataxe",
+    "weight": 20,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rotten Staff",
+    "weight": 18,
+    "defaultAshOfWar": "Erdtree Slam",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Round Shield",
+    "weight": 4,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Royal Greatsword",
+    "weight": 20,
+    "defaultAshOfWar": "Wolf's Assault",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 18,
+      "intelligence": 22,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Ruins Greatsword",
+    "weight": 23,
+    "defaultAshOfWar": "Wave of Destruction",
+    "catalyst": false,
+    "requirements": {
+      "strength": 50,
+      "dexterity": 0,
+      "intelligence": 16,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Rusted Anchor",
+    "weight": 12.5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 26,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sacred Relic Sword",
+    "weight": 11,
+    "defaultAshOfWar": "Wave of Gold",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 24,
+      "intelligence": 0,
+      "faith": 22,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sacrificial Axe",
+    "weight": 5.5,
+    "defaultAshOfWar": "Wild Strikes",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scavenger's Curved Sword",
+    "weight": 3.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scepter of the All-Knowing",
+    "weight": 4.5,
+    "defaultAshOfWar": "Knowledge Above All",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 18,
+      "intelligence": 21,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scimitar",
+    "weight": 3,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scorpion Kite Shield",
+    "weight": 4.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scorpion's Stinger",
+    "weight": 2.5,
+    "defaultAshOfWar": "Repeating Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scripture Wooden Shield",
+    "weight": 1.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Scythe",
+    "weight": 7.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sentry's Torch",
+    "weight": 5,
+    "defaultAshOfWar": "Torch Attack",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 15,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Serpent Bow",
+    "weight": 3.5,
+    "defaultAshOfWar": "Mighty Shot",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 11
+    }
+  },
+  {
+    "name": "Serpent-God's Curved Sword",
+    "weight": 4,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 13,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Serpent-Hunter",
+    "weight": 12,
+    "defaultAshOfWar": "Great-Serpent Hunt",
+    "catalyst": false,
+    "requirements": {
+      "strength": 0,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Serpentbone Blade",
+    "weight": 6,
+    "defaultAshOfWar": "Double Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Shamshir",
+    "weight": 3.5,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Shield of the Guilty",
+    "weight": 2,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Short Spear",
+    "weight": 4,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Short Sword",
+    "weight": 3,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Shortbow",
+    "weight": 2.5,
+    "defaultAshOfWar": "Barrage",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Shotel",
+    "weight": 2,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 19,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Siluria's Tree",
+    "weight": 10,
+    "defaultAshOfWar": "Siluria's Woe",
+    "catalyst": false,
+    "requirements": {
+      "strength": 27,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 20,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Silver Mirrorshield",
+    "weight": 3.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 10,
+      "intelligence": 10,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Smoldering Shield",
+    "weight": 3,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 12,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Soldier's Crossbow",
+    "weight": 3.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Spear",
+    "weight": 4.5,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Spiked Caestus",
+    "weight": 2,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Spiked Club",
+    "weight": 5,
+    "defaultAshOfWar": "Barbaric Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 7,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Spiked Palisade Shield",
+    "weight": 11.5,
+    "defaultAshOfWar": "Shield Bash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Spiked Spear",
+    "weight": 6,
+    "defaultAshOfWar": "Impaling Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Spiralhorn Shield",
+    "weight": 2,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "St. Trina's Torch",
+    "weight": 3,
+    "defaultAshOfWar": "Fires of Slumber",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 14,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Staff of Loss",
+    "weight": 2.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 6,
+      "dexterity": 12,
+      "intelligence": 14,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Staff of the Avatar",
+    "weight": 20,
+    "defaultAshOfWar": "Erdtree Slam",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 24,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Staff of the Guilty",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": true,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 12,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Star Fist",
+    "weight": 3,
+    "defaultAshOfWar": "Endure",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Starscourge Greatsword",
+    "weight": 20,
+    "defaultAshOfWar": "Starcaller Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 38,
+      "dexterity": 12,
+      "intelligence": 15,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Steel-Wire Torch",
+    "weight": 3,
+    "defaultAshOfWar": "Firebreather",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Stone Club",
+    "weight": 7,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Stormhawk Axe",
+    "weight": 5.5,
+    "defaultAshOfWar": "Thunderstorm",
+    "catalyst": false,
+    "requirements": {
+      "strength": 19,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sun Realm Shield",
+    "weight": 3.5,
+    "defaultAshOfWar": "Parry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sword of Milos",
+    "weight": 10,
+    "defaultAshOfWar": "Shriek of Milos",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 19,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sword of Night and Flame",
+    "weight": 4,
+    "defaultAshOfWar": "Night-and-Flame Stance",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 12,
+      "intelligence": 24,
+      "faith": 24,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Sword of St. Trina",
+    "weight": 3,
+    "defaultAshOfWar": "Mists of Slumber",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 12,
+      "intelligence": 14,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Thorned Whip",
+    "weight": 2.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Torch",
+    "weight": 1.5,
+    "defaultAshOfWar": "Torch Attack",
+    "catalyst": false,
+    "requirements": {
+      "strength": 5,
+      "dexterity": 5,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Torchpole",
+    "weight": 6,
+    "defaultAshOfWar": "Charge Forth",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Treespear",
+    "weight": 9.5,
+    "defaultAshOfWar": "Sacred Order",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 22,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Troll Knight's Sword",
+    "weight": 18,
+    "defaultAshOfWar": "Troll's Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 20,
+      "dexterity": 14,
+      "intelligence": 18,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Troll's Golden Sword",
+    "weight": 19,
+    "defaultAshOfWar": "Troll's Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 29,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Troll's Hammer",
+    "weight": 16,
+    "defaultAshOfWar": "Troll's Roar",
+    "catalyst": false,
+    "requirements": {
+      "strength": 28,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 10,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Twinbird Kite Shield",
+    "weight": 4.5,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 12,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Twinblade",
+    "weight": 7,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Twinned Knight Swords",
+    "weight": 8,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Uchigatana",
+    "weight": 5.5,
+    "defaultAshOfWar": "Unsheathe",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 15,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Urumi",
+    "weight": 3,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 19,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Varre's Bouquet",
+    "weight": 2,
+    "defaultAshOfWar": "Blood Tax",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 24
+    }
+  },
+  {
+    "name": "Venomous Fang",
+    "weight": 2.5,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Veteran's Prosthesis",
+    "weight": 4,
+    "defaultAshOfWar": "Storm Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 12,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Visage Shield",
+    "weight": 24,
+    "defaultAshOfWar": "Tongues of Fire",
+    "catalyst": false,
+    "requirements": {
+      "strength": 44,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Vulgar Militia Saw",
+    "weight": 8,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 15,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Vulgar Militia Shotel",
+    "weight": 8,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Vyke's War Spear",
+    "weight": 8,
+    "defaultAshOfWar": "Frenzyflame Thrust",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 18,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Wakizashi",
+    "weight": 3,
+    "defaultAshOfWar": "Quickstep",
+    "catalyst": false,
+    "requirements": {
+      "strength": 9,
+      "dexterity": 13,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Warhawk's Talon",
+    "weight": 3,
+    "defaultAshOfWar": "Spinning Slash",
+    "catalyst": false,
+    "requirements": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Warped Axe",
+    "weight": 7.5,
+    "defaultAshOfWar": "War Cry",
+    "catalyst": false,
+    "requirements": {
+      "strength": 24,
+      "dexterity": 8,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Warpick",
+    "weight": 2.5,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 11,
+      "dexterity": 9,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Watchdog's Greatsword",
+    "weight": 22,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Watchdog's Staff",
+    "weight": 19,
+    "defaultAshOfWar": "Sorcery of the Crozier",
+    "catalyst": false,
+    "requirements": {
+      "strength": 34,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Weathered Straight Sword",
+    "weight": 3,
+    "defaultAshOfWar": "Square Off",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 10,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Whip",
+    "weight": 2,
+    "defaultAshOfWar": "Kick",
+    "catalyst": false,
+    "requirements": {
+      "strength": 8,
+      "dexterity": 14,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Wing of Astel",
+    "weight": 2.5,
+    "defaultAshOfWar": "Nebula",
+    "catalyst": false,
+    "requirements": {
+      "strength": 7,
+      "dexterity": 17,
+      "intelligence": 20,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Winged Greathorn",
+    "weight": 11,
+    "defaultAshOfWar": "Soul Stifler",
+    "catalyst": false,
+    "requirements": {
+      "strength": 30,
+      "dexterity": 20,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Winged Scythe",
+    "weight": 7.5,
+    "defaultAshOfWar": "Angel's Wings",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 16,
+      "intelligence": 0,
+      "faith": 24,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Wooden Greatshield",
+    "weight": 8,
+    "defaultAshOfWar": "No Skill",
+    "catalyst": false,
+    "requirements": {
+      "strength": 14,
+      "dexterity": 0,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Zamor Curved Sword",
+    "weight": 9,
+    "defaultAshOfWar": "Zamor Ice Storm",
+    "catalyst": false,
+    "requirements": {
+      "strength": 16,
+      "dexterity": 18,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  },
+  {
+    "name": "Zweihander",
+    "weight": 15.5,
+    "defaultAshOfWar": "Stamp (Upward Cut)",
+    "catalyst": false,
+    "requirements": {
+      "strength": 19,
+      "dexterity": 11,
+      "intelligence": 0,
+      "faith": 0,
+      "arcane": 0
+    }
+  }
+]
