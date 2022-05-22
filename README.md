@@ -1,4 +1,4 @@
-## Elden Ring Web Scraper
+## Elden Ring Update Scraper
 
 - Provides an API for elden ring weapon updates
 - When a new update rolls out, this tool will parse the update looking for any and all changes made
