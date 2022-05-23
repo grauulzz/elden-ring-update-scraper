@@ -1,0 +1,36 @@
+example output of li
+
+List(List(JsoupElement(
+ <li>Fixed a bug in which the effect duration of the <a class="wiki_link" title="Elden Ring Cerulean Hidden Tear" href="/Cerulean+Hidden+Tear" target="">Cerulean Hidden Tear</a> was revised downward</li>),
+ JsoupElement(<li>Fixed a bug with <a class="wiki_link" title="Elden Ring Malenia, Blade of Miquella" href="/Malenia,+Blade+of+Miquella" target="">Malenia,Blade of Miquella</a> in which her HP was not healed correctly in the online multiplayer environment</li>),
+ JsoupElement(<li>Fixed a bug that caused some <a class="wiki_link" title="Elden Ring Bosses" href="/Bosses" target="">Bosses</a> to die at unintended times</li>),
+ JsoupElement(<li>Fixed a bug that prevented the boss "<a class="wiki_link" title="Elden Ring Elden Beast" href="/Elden+Beast" target="">Elden Beast</a>" from working properly under certain circumstances</li>),
+ JsoupElement(<li>Fixed some texts</li>),
+ JsoupElement(<li>App Ver. 1.04.1</li>),
+ JsoupElement(<li>Regulation Ver. 1.04.2</li>),
+ JsoupElement(<li>Major Changes Included in the Latest Update</li>),
+ JsoupElement(<li>Sorcery/Incantation</li>),
+ JsoupElement(<li>Weapon Skill</li>),
+ JsoupElement(<li>Bug Fixes</li>),
+ JsoupElement(<li>Added an option to turn camera auto rotate function ON/OFF</li>),
+ JsoupElement(<li>Added some event phases for the NPC “Patches”</li>),
+ JsoupElement(<li>Increased Colossal Swords/Colossal weapons attack speed and lowered their recovery time. Jump attack not included.</li>),
+ JsoupElement(<li>Increased the two-handed attack damage of Colossal Swords/Colossal Weapons. Jump attack not included.</li>),
+ JsoupElement(<li>Increased physical block rate and guard boost of the Colossal Sword, Colossal Weapons, Great Sword, Great Hammer, Great Axe, Great Spear, and Halberd weapon classes.</li>)
+ JsoupElement(<li>Increased the damage of Grafted Blade Greatsword.</li>),
+
+
+
+    // def extract[E <: Element, A](doc: ElementQuery[E], cssQuery: String, contentExtractor: E => A,
+    //                               contentParser: Option[A => A] = None): A = {
+    //    val extracted = doc >> cssQuery
+    //    val parsed = contentParser.map(_(extracted)).getOrElse(extracted)
+    //    contentExtractor(parsed match {
+    //      case e: E => e
+    //      case _ => throw new Exception("Could not extract content")
+    //    })
+    //  }
+
+//    val extractor = new ContentExtractor()
+//    val content = extractor.extract(content, "div.content", _.text)
+//    println(content)

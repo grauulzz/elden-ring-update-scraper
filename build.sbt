@@ -36,10 +36,11 @@ lazy val commonScalacOptions = Seq(
 lazy val dependencies = Seq(
   libraryDependencies ++= Seq(
     "net.ruippeixotog" %% "scala-scraper" % "2.2.1",
-    "org.scalatest" %% "scalatest" % "2.12.15" % "test"
+    "com.google.code.gson" % "gson" % "2.9.0",
+    "org.scalatest" %% "scalatest" % "3.2.12" % "test"
   ),
   libraryDependencies ++= Seq(
     org.scalatest.scalatest,
     org.scalatestplus.`scalacheck-1-15`,
-  ).map(_ % Test),
+  ).map(_ % Test)
 )
