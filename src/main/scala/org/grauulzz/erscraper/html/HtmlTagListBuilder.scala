@@ -4,7 +4,8 @@ import org.grauulzz.erscraper.html
 
 import scala.collection.mutable.ArrayBuffer
 
-sealed trait HtmlTag
+trait HtmlTag
+
 case object HtmlTag {
   case object A extends HtmlTag
   case object B extends HtmlTag
@@ -47,6 +48,7 @@ case object HtmlTag {
     case _ => throw new IllegalArgumentException(s"Unknown tag: $name")
   }
 
+  // the apply method is setup both ways, to and from a string
    def apply(tag: HtmlTag): String = tag match {
     case A => "a"
     case B => "b"
