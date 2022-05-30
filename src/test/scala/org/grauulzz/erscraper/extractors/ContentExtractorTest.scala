@@ -9,16 +9,7 @@ class ContentExtractorTest extends AnyFunSuite {
   private val browser: Browser = JsoupBrowser()
   val content: Document = browser.get("https://eldenring.wiki.fextralife.com/Patch+Notes")
   val extractor: ContentExtractor = new ContentExtractor()
-  val doc: Document = browser.parseFile("src/main/scala/resources/example.html")
 
-  test("ex1") {
-    val result: Element = extractor.ex1(doc)
-    println(result)
-  }
-  test("ex2") {
-    val result: Imports.LocalDate = extractor.ex2(doc)
-    println(result)
-  }
   test("ContentExtractor.extractAllText") {
     val result: String = extractor.extractAllText(content)
     println(result)
