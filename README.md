@@ -1,4 +1,4 @@
-## Elden Ring Update Scraper
+## Elden Ring Update Scraper (WIP)
 
 - Provides an API for elden ring weapon updates
 - When a new update rolls out, this tool will parse the update looking for any and all changes made
@@ -36,14 +36,12 @@
 }
 ```
 
-Comparison data was pulled from wayback machine "April 21 2022" a few days before the patch,
-and then referenced against the current "Grafted Blade Greatsword" entry on Elden Ring Wiki
+Comparison data (ie... buffed and/or nurfed) is scraped from archieved versions of Elden Ring Wiki, "April 21 2022" a few days before the patch, referenced against the current "Grafted Blade Greatsword" entry on Elden Ring Wiki
 #### [Grafted Blade Wiki Current Entry](https://eldenring.wiki.fextralife.com/Grafted+Blade+Greatsword)
-#### [Grafted Blade Wiki Before Patch Entry WayBackMachine](https://web.archive.org/web/20220421044159/https://eldenring.wiki.fextralife.com/Grafted+Blade+Greatsword)
 
 
 ## Project Notes:
-1. Web scraper needs to parse the Elden Ring Wiki Patch Notes page first: https://eldenring.wiki.fextralife.com/Patch+Notes
+1. Web scraper needs to parse the Elden Ring Wiki Patch Notes page first
 2. Once a weapon name is found, when parsing the text of the patch notes, (probably have to generate a massive json file of Weapon names regex in order to achieve parsed info),
 create a new web scraper to parse info from the Wiki and generate a new Json file from that info. This will account for the current version of the weapon
 3. Now it's time to scrape the way back machine
@@ -74,7 +72,6 @@ however, once again, this would fall out of scope because dps is not listed unde
 
 - As of right now, I'm only looking at weapons. Armor, Ashes of War, Talismans, Arrows, etc... could be implemented in the future
 
-- If a new weapon is added to game. However, this could possibly be an easy implementation with the current project so we'll see
 
 
 
