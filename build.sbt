@@ -37,10 +37,11 @@ lazy val dependencies = Seq(
   libraryDependencies ++= Seq(
     "net.ruippeixotog" %% "scala-scraper" % "2.2.1",
     "com.google.code.gson" % "gson" % "2.9.0",
-    "org.scalatest" %% "scalatest" % "3.2.12" % "test"
   ),
   libraryDependencies ++= Seq(
     org.scalatest.scalatest,
     org.scalatestplus.`scalacheck-1-15`,
+    "com.github.sbt" % "junit-interface" % "0.13.3",
+    "org.scalatest" %% "scalatest" % "3.2.12"
   ).map(_ % Test)
 )
