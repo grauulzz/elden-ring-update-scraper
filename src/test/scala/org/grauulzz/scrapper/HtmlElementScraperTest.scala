@@ -9,19 +9,6 @@ import net.ruippeixotog.scalascraper.dsl.DSL.Parse.*
 
 import scala.collection.immutable
 
-object HtmlElementScraperTest:
-  val browser: Browser = JsoupBrowser()
-  val doc: Document = browser.get("https://eldenring.wiki.fextralife.com/Patch+Notes")
-  val table: Element = doc >> element("table")
-  val tableRows: immutable.Seq[Element] = table >> elementList("tr")
-  val tableHeaders: immutable.Seq[Element] = tableRows.head >> elementList("th")
-  val tableCells: immutable.Seq[Element] = tableRows.tail.flatMap(_ >> elementList("td"))
-
-  def getTableHeaders: immutable.Seq[String] = tableHeaders.map(_.text)
-  def getTableCells: immutable.Seq[String] = tableCells.map(_.text)
-  def getTableHeadersAndCells: immutable.Seq[(String, String)] = getTableHeaders.zip(getTableCells)
-
-
 class HtmlElementScraperTest extends TestSuite:
    val browser: Browser = JsoupBrowser()
    val patchNotesDoc: Document =

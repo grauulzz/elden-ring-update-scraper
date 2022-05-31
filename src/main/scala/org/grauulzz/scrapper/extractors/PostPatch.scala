@@ -1,14 +1,13 @@
 package org.grauulzz.scrapper.extractors
 
-import net.ruippeixotog.scalascraper.browser.{ Browser, JsoupBrowser }
-import net.ruippeixotog.scalascraper.model.{ Document, Element }
+import net.ruippeixotog.scalascraper.browser.{Browser, JsoupBrowser}
+import net.ruippeixotog.scalascraper.model.{Document, Element, ElementQuery}
 import net.ruippeixotog.scalascraper.dsl.DSL.*
 import net.ruippeixotog.scalascraper.dsl.DSL.Extract.*
 import net.ruippeixotog.scalascraper.dsl.DSL.Parse.*
 
 import scala.collection.immutable
 
-import scala.collection.immutable
 
 object PostPatch:
    val browser: Browser = JsoupBrowser()
@@ -21,5 +20,3 @@ object PostPatch:
    def getTableHeaders: immutable.Seq[String] = tableHeaders.map(_.text)
    def getTableCells: immutable.Seq[String] = tableCells.map(_.text)
    def getTableHeadersAndCells: immutable.Seq[(String, String)] = getTableHeaders.zip(getTableCells)
-
-class PostPatch {}
