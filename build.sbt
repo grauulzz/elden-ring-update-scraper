@@ -1,8 +1,8 @@
 import Dependencies._
 
 ThisBuild / organization := "org.grauulzz"
-ThisBuild / scalaVersion := "2.12.15"
-ThisBuild / crossScalaVersions := Seq("2.12.15", "2.13.8")
+ThisBuild / scalaVersion := "3.1.0"
+//ThisBuild / crossScalaVersions := Seq("2.12.15", "2.13.8")
 
 ThisBuild / scalacOptions ++=
   Seq(
@@ -12,8 +12,23 @@ ThisBuild / scalacOptions ++=
     "-language:higherKinds",
     "-unchecked",
     "-Xfatal-warnings",
-    "-Ykind-projector"
+    "-Yexplicit-nulls",
+    "-Ykind-projector",
+    "-Ysafe-init",
   ) ++ Seq("-rewrite", "-indent") ++ Seq("-source", "future")
+
+lazy val commonScalacOptions = Seq(
+  Compile / console / scalacOptions --= Seq(
+    "-Wunused:_",
+    "-Xfatal-warnings",
+  ),
+  Test / console / scalacOptions :=
+    (Compile / console / scalacOptions).value,
+)
+
+lazy val commonSettings = commonScalacOptions ++ Seq(
+  update / evictionWarningOptions := EvictionWarningOptions.empty
+)
 
 lazy val `elden-ring-update-scraper` =
   project
@@ -22,28 +37,15 @@ lazy val `elden-ring-update-scraper` =
     .settings(commonSettings)
     .settings(dependencies)
 
-lazy val commonSettings = commonScalacOptions ++ Seq(
-  update / evictionWarningOptions := EvictionWarningOptions.empty
-)
-
-lazy val commonScalacOptions = Seq(
-  Compile / console / scalacOptions --= Seq(
-    "-Wunused:_",
-    "-Xfatal-warnings"
-  ),
-  Test / console / scalacOptions :=
-    (Compile / console / scalacOptions).value
-)
-
 lazy val dependencies = Seq(
-
   // src dependencies
   // check otu io.micrometer.core.aysnc
   libraryDependencies ++= Seq(
-    "net.ruippeixotog" %% "scala-scraper" % "2.2.1",
+//    "net.ruippeixotog" %% "scala-scraper" % "2.2.1",
+    ("net.ruippeixotog" %% "scala-scraper" % "2.2.1")
+      .cross(CrossVersion.for3Use2_13),
     "com.google.code.gson" % "gson" % "2.9.0",
     "io.micronaut.build" % "micronaut-maven-plugin" % "3.3.0",
-
     // https://mavenlibs.com/maven/dependency/info.picocli/picocli-codegen
     "info.picocli" % "picocli-codegen" % "4.6.3",
     // https://mavenlibs.com/maven/dependency/io.micronaut/micronaut-http-validation
@@ -67,12 +69,11 @@ lazy val dependencies = Seq(
     // https://mavenlibs.com/maven/dependency/io.micronaut/micronaut-inject
     // "io.micronaut" % "micronaut-inject" % "3.4.3",
   ),
-
   // test dependencies
   libraryDependencies ++= Seq(
     org.scalatest.scalatest,
     org.scalatestplus.`scalacheck-1-15`,
-    "com.github.sbt" % "junit-interface" % "0.13.3",
-    "org.scalatest" %% "scalatest" % "3.2.12"
-  ).map(_ % Test)
+//    "com.github.sbt" % "junit-interface" % "0.13.3",
+//    "org.scalatest" %% "scalatest" % "3.2.12",
+  ).map(_ % Test),
 )

@@ -1,4 +1,4 @@
-package org.grauulzz.erscraper.weapon
+package org.grauulzz.scrapper.weapon
 
 class Scratch {
 //  case class Scaling(var scalingTraits: List[Wt] = List()) extends WtImpl(scalingTraits) {

@@ -1,7 +1,24 @@
-package org.grauulzz.erscraper.response
-import org.grauulzz.erscraper.response.TestWeapon.{a1, a2, a3, a4, a5, a6, g1, g2, g3, g4, g5, g6, r1, r2, s1, s2}
+package org.grauulzz.scrapper.response
+import org.grauulzz.scrapper.response.TestWeapon.{
+  a1,
+  a2,
+  a3,
+  a4,
+  a5,
+  a6,
+  g1,
+  g2,
+  g3,
+  g4,
+  g5,
+  g6,
+  r1,
+  r2,
+  s1,
+  s2
+}
 
-object TestWeapon {
+object TestWeapon:
   val a1: Wt.Phy.type = Wt.Phy
   val a2: Wt.Mag.type = Wt.Mag
   val a3: Wt.Fire.type = Wt.Fire
@@ -34,8 +51,5 @@ object TestWeapon {
   val r2: Wt.Dex.type = Wt.Dex
   r1.value_=(40)
   r2.value_=(14)
-}
 
-class TestHelpers {
-
-}
+class TestHelpers {}

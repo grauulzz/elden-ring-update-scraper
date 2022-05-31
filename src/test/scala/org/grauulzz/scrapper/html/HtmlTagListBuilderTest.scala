@@ -1,8 +1,8 @@
-package org.grauulzz.erscraper.html
+package org.grauulzz.scrapper.html
 
-import org.scalatest.funsuite.AnyFunSuite
+import org.grauulzz.scrapper.TestSuite
 
-class HtmlTagListBuilderTest extends AnyFunSuite {
+class HtmlTagListBuilderTest extends TestSuite:
   test("HtmlTagListBuilder") {
     HtmlTagListBuilder.addTag(HtmlTag.A)
     HtmlTagListBuilder.addTag(HtmlTag.B)
@@ -22,9 +22,10 @@ class HtmlTagListBuilderTest extends AnyFunSuite {
   }
 
   test("HtmlTagListBuilder.removalAllTags") {
-    List(HtmlTag.A, HtmlTag.B, HtmlTag.DIV, HtmlTag.LI).foreach(HtmlTagListBuilder.addTag)
+    List(HtmlTag.A, HtmlTag.B, HtmlTag.DIV, HtmlTag.LI)
+      .foreach(HtmlTagListBuilder.addTag)
     assert(HtmlTagListBuilder.getTags.size == 4)
     HtmlTagListBuilder.removalAllTags()
     assert(HtmlTagListBuilder.getTags.isEmpty)
   }
-}
+

@@ -1,8 +1,7 @@
-package org.grauulzz.erscraper.parsers
+package org.grauulzz.scrapper.extractors
 
-object ContentParser {
-  def parseContentDiv(content: String): String = {
+class RegexParser:
+  def parseContentDiv(content: String): String =
     val regex = """(?s)<div class="content">(.*?)</div>""".r
     regex.findFirstMatchIn(content).map(_.group(1)).getOrElse("")
-  }
-}
+
