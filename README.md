@@ -4,9 +4,9 @@
 - This tool aims to automate the process of checking elden ring update info  
 
 ## CLI  
-> - Scala [scala-scrapper]
-> - Micronaut [picocli, http client, runtime]
-> - Graalvm [nativeimage]
+> - Web scrapper [scala-scrapper](https://index.scala-lang.org/ruippeixotog/scala-scraper)
+> - CLI [micronaut: picocli, http, runtime](https://micronaut-projects.github.io/micronaut-picocli/)
+> - Graalvm [nativeimage](https://www.graalvm.org/22.0/reference-manual/native-image/)
 
 #### Example response of "Grafted Blade Greatsword" buffed in recent patch
 
