@@ -9,7 +9,6 @@ import net.ruippeixotog.scalascraper.scraper.ContentParsers.{asDouble, asIs, asL
 import net.ruippeixotog.scalascraper.scraper.HtmlExtractor
 import net.ruippeixotog.scalascraper.model.Element
 
-
 class ContentExtractor {
 
   // cssQuery: the CSS query used to select the elements to be processed;
@@ -39,11 +38,14 @@ class ContentExtractor {
     )
   }
 
-  def extractWeapon2(doc: Document, cssQuery: String, name: String): Iterable[Element] = {
+  def extractWeapon2(
+      doc: Document,
+      cssQuery: String,
+      name: String
+  ): Iterable[Element] = {
     val ele: Element = doc >> extractor(cssQuery, element, asIs[Element])
     for {
       weapon <- ele.select(name).extract(elements)
     } yield weapon
   }
 }
-
