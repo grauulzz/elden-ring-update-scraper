@@ -1,11 +1,12 @@
 ## Elden Ring Update Scraper (WIP)
 
-- Provides an API for elden ring weapon updates
-- When a new update rolls out, this tool will parse the update looking for any and all changes made
-- If a change is found for a particular weapon type (ie... weapon is nerfed or buffed), an overwrite in the db will be executed
-- This tool aims to keep all elden ring weapons updated for any service or website that may rely on this data
-- The API will provide easy access to newly updated weapons
-- The API will respond in JSON format
+- Standalone Command Line Application for elden ring weapon updates
+- This tool aims to automate the process of checking elden ring update info  
+
+## CLI  
+> - Scala [scala-scrapper]
+> - Micronaut [picocli, http client, runtime]
+> - Graalvm [nativeimage]
 
 #### Example response of "Grafted Blade Greatsword" buffed in recent patch
 
