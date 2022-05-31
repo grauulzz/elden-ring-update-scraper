@@ -10,25 +10,65 @@
 
 #### Example response of "Grafted Blade Greatsword" buffed in recent patch
 
-```
+```json
 {
-  "name" : "Grafted Blade Greatsword",
-  "type" : "Colossal Sword",
-  "version" : 1.04.1,
-  "released" : "April 27th 2022",
-  "description" : "Increased the damage of Grafted Blade Greatsword"
-  "attributes" : [
-      "Attack" : ["Phy" : 162, "Mag" : 0, "Fire" : 0, "Ligt" : 0, "Holy" : 0, "Crit" : 100],
-      "Guard" : ["Phy" : 80, "Mag" : 48, "Fire" : 48, "Ligt" : 48, "Holy" : 48, "Boost": 53],
-      "Scaling" : ["Str" : "C", "Dex" : "E"],
-      "Requires" : ["Str" : 40, "Dex" : 14],
-      "Other" : ["Skill" : "Oath of Vengeance", "FP" : 20, "Wgt" : 21.0, "Passive" : null]
-  ]
-  "buffed" : [
-      "Attack" : ["Phy" : "+5"],
-      "Guard" : ["Boost" : "+10"]
-  ]
-  "nerfed" : []
+  "name": "Grafted Blade GreatSword",
+  "type": "Colossal Sword",
+  "version": "1.04.1",
+  "released": "04-27-2022",
+  "attributes": {
+    "attack": [
+      {
+        "phy": 162,
+        "mag": 0,
+        "fire": 0,
+        "ligt": 0,
+        "holy": 0,
+        "crit": 100
+      }
+    ],
+    "guard": [
+      {
+        "phy": 80,
+        "mag": 48,
+        "fire": 48,
+        "ligt": 48,
+        "holy": 48,
+        "boost": 53
+      }
+    ],
+    "scaling": [
+      {
+        "str": "C",
+        "dex": "E"
+      }
+    ],
+    "requires": {
+      "str": 40,
+      "dex": 14
+    },
+    "other": [
+      {
+        "skill": "Oath of Vengence",
+        "fp": 20,
+        "wgt": 21,
+        "passive": "na"
+      }
+    ]
+  },
+  "buffed": {
+    "attack": [
+      {
+        "phy": "+5"
+      }
+    ],
+    "guard": [
+      {
+        "boost": "+10"
+      }
+    ]
+  },
+  "nurfed": {}
 }
 ```
 
