@@ -5,7 +5,7 @@
 
 ## CLI  
 > - Web scrapper [scala-scrapper](https://index.scala-lang.org/ruippeixotog/scala-scraper)
-> - CLI [micronaut: picocli, http, runtime](https://micronaut-projects.github.io/micronaut-picocli/)
+> - Micronaut CLI [picocli, http, runtime](https://micronaut-projects.github.io/micronaut-picocli/)
 > - Graalvm [nativeimage](https://www.graalvm.org/22.0/reference-manual/native-image/)
 
 #### Example response of "Grafted Blade Greatsword" buffed in recent patch
