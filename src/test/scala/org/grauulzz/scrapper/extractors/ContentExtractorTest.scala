@@ -7,7 +7,7 @@ import org.grauulzz.scrapper.TestSuite
 import org.grauulzz.scrapper.html.{HtmlTag, HtmlTagListBuilder}
 import org.scalatest.funsuite.AnyFunSuite
 
-class ContentExtractorTest extends TestSuite:
+class ContentExtractorTest extends TestSuite {
   private val browser: Browser = JsoupBrowser()
   val content: Document =
     browser.get("https://eldenring.wiki.fextralife.com/Patch+Notes")
@@ -17,12 +17,14 @@ class ContentExtractorTest extends TestSuite:
     val result: String = extractor.extractAllText()
     println(result)
   }
-  test("ContentExtractor.extractWeapon") {
-    val result = extractor.extractWeapon(
-      "#wiki-content-block ul li", "Grafted Blade Greatsword"
-    ).text
 
-    println(result)
+  test("ContentExtractor.extractWeapon") {
+    val result = extractor
+      .extractWeapon(
+        "#wiki-content-block ul li",
+        "Grafted Blade Greatsword"
+      )
+      .text
     assert("Increased the damage of Grafted Blade Greatsword.".equals(result))
   }
 
@@ -36,10 +38,8 @@ class ContentExtractorTest extends TestSuite:
     tags.addTag(HtmlTag.LI)
     println(tags.getTags)
     val cssQueryStr: String = "#wiki-content-block"
-    val foldedTags: String = cssQueryStr + (tags.getTags.fold("")((x, y) => x + " " + y))
+    val foldedTags: String =
+      cssQueryStr + (tags.getTags.fold("")((x, y) => x + " " + y))
     println(foldedTags)
-
   }
-
-
-
+}

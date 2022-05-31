@@ -1,3 +1,5 @@
 package org.grauulzz.scrapper.extractors
 
-class PrePatch {}
+class PrePatch {
+  val prePatchVersion: String = ""
+}

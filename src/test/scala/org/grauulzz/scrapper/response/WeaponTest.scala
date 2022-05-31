@@ -3,7 +3,7 @@ package org.grauulzz.scrapper.response
 import org.grauulzz.scrapper.TestSuite
 import org.scalatest.funsuite.AnyFunSuite
 
-class WeaponTest extends TestSuite:
+class WeaponTest extends TestSuite {
   test("Weapon") {
     val weapon: Weapon = new Weapon(
       "Grafted Great Sword",
@@ -126,4 +126,5 @@ class WeaponTest extends TestSuite:
 
     println(weapon.toJsonPretty)
   }
+}
 
