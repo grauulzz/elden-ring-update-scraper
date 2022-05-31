@@ -1,3 +1,3 @@
 Global / excludeLintKeys ++= Set(
-  evictionWarningOptions,
+  evictionWarningOptions
 )

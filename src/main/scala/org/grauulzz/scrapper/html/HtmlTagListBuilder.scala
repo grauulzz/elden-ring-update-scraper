@@ -1,6 +1,6 @@
-package org.grauulzz.erscraper.html
+package org.grauulzz.scrapper.html
 
-import org.grauulzz.erscraper.html
+import org.grauulzz.scrapper.html
 
 import scala.collection.mutable.ArrayBuffer
 
@@ -49,7 +49,7 @@ case object HtmlTag {
   }
 
   // the apply method is setup both ways, to and from a string
-   def apply(tag: HtmlTag): String = tag match {
+  def apply(tag: HtmlTag): String = tag match {
     case A => "a"
     case B => "b"
     case BR => "br"
@@ -69,31 +69,20 @@ case object HtmlTag {
     case STRONG => "strong"
     case UL => "ul"
   }
+
 }
 
 object HtmlTagListBuilder {
   val tags: ArrayBuffer[String] = ArrayBuffer[String]()
-  def addTag(t: HtmlTag): Unit = {
-    tags += HtmlTag.apply(t)
-  }
-  def removeTag(t: HtmlTag): Unit = {
-    tags -= HtmlTag.apply(t)
-  }
-  def removalAllTags(): Unit = {
-    tags.clear()
-  }
-  def getTags: ArrayBuffer[String] = {
-    tags
-  }
+  def addTag(t: HtmlTag): Unit = tags += HtmlTag.apply(t)
+  def removeTag(t: HtmlTag): Unit = tags -= HtmlTag.apply(t)
+  def removalAllTags(): Unit = tags.clear()
+  def getTags: ArrayBuffer[String] = tags
   def isSupportedTag(t: String): Boolean = {
     // if Html.apply(t) is not a known tag, it will throw an exception
     try {
       HtmlTag.apply(t)
       true
-    } catch {
-      case _: IllegalArgumentException => false
-    }
+    } catch case _: IllegalArgumentException => false
   }
-
-
 }

@@ -1,15 +1,15 @@
-package org.grauulzz.erscraper.response
+package org.grauulzz.scrapper.response
 
+import org.grauulzz.scrapper.TestSuite
 import org.scalatest.funsuite.AnyFunSuite
 
-class WeaponTest extends AnyFunSuite {
-
+class WeaponTest extends TestSuite {
   test("Weapon") {
     val weapon: Weapon = new Weapon(
       "Grafted Great Sword",
       "Colossal Sword",
       "1.04.1",
-      "April 27th 2022"
+      "April 27th 2022",
     )
     println(weapon)
   }
@@ -59,7 +59,8 @@ class WeaponTest extends AnyFunSuite {
     s1.value_=("C")
     s2.value_=("E")
     val scalingTraits: List[Wt] = List(s1, s2)
-    val res: Map[String, List[(Wt, Any)]] = scalingAttributes.scaling(scalingTraits)
+    val res: Map[String, List[(Wt, Any)]] =
+      scalingAttributes.scaling(scalingTraits)
     println(res)
   }
 
@@ -70,7 +71,8 @@ class WeaponTest extends AnyFunSuite {
     r1.value_=(40)
     r2.value_=(14)
     val requiresTraits: List[Wt] = List(r1, r2)
-    val res: Map[String, List[(Wt, Any)]] = requiresAttributes.requires(requiresTraits)
+    val res: Map[String, List[(Wt, Any)]] =
+      requiresAttributes.requires(requiresTraits)
     println(res)
   }
 
@@ -111,17 +113,18 @@ class WeaponTest extends AnyFunSuite {
     r2.value_=(14)
     val requiresTraits: List[Wt] = List(r1, r2)
 
-    val all: Map[String, List[(Wt, Any)]] = weaponAttribute.allAttr(attackTraits,
-      guardTraits, scalingTraits, requiresTraits)
+    val all: Map[String, List[(Wt, Any)]] =
+      weaponAttribute.allAttr(attackTraits, guardTraits, scalingTraits, requiresTraits)
 
     val weapon: Weapon = new Weapon(
       "Grafted Great Sword",
       "Colossal Sword",
       "1.04.1",
-      "April 27th 2022", all
+      "April 27th 2022",
+      all,
     )
 
     println(weapon.toJsonPretty)
   }
-
 }
+
