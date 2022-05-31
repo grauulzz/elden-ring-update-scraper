@@ -72,7 +72,7 @@
 }
 ```
 
-Comparison data (ie... buffed and/or nurfed data) is scraped from archieved versions of Elden Ring Wiki, "April 21 2022" a few days before the patch, referenced against the current "Grafted Blade Greatsword" entry on Elden Ring Wiki
+Comparison data (ie... buffed and/or nurfed data) is scraped from an archive version of the weapon entry, then referenced against the current "Grafted Blade Greatsword" entry
 
 
 ## Project Notes:
