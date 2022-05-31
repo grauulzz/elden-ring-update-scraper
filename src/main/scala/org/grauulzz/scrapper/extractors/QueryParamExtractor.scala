@@ -23,7 +23,6 @@ import org.grauulzz.scrapper.html
 import org.grauulzz.scrapper.html.{HtmlTag, HtmlTagListBuilder}
 import scalaz.Leibniz.subst
 
-// in Scala, we separated the code in the class (for instance-dependent logic)
 class QueryParamExtractor(searchParam: String) {
   val doc: Document =
     JsoupBrowser().get("https://eldenring.wiki.fextralife.com/Patch+Notes")
@@ -31,7 +30,6 @@ class QueryParamExtractor(searchParam: String) {
   var _searchParam: String = searchParam
 }
 
-//...and the companion object (for instance-independent logic)
 object QueryParamExtractor {
   def apply(searchParam: String): QueryParamExtractor =
     new QueryParamExtractor(searchParam)
