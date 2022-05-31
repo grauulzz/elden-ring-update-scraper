@@ -17,21 +17,16 @@
   "version" : 1.04.1,
   "released" : "April 27th 2022",
   "description" : "Increased the damage of Grafted Blade Greatsword"
-  "platform" : "PlayStation 4 / PlayStation 5 / Xbox One / Xbox Series X|S / Steam"
   "attributes" : [
-    {
       "Attack" : ["Phy" : 162, "Mag" : 0, "Fire" : 0, "Ligt" : 0, "Holy" : 0, "Crit" : 100],
       "Guard" : ["Phy" : 80, "Mag" : 48, "Fire" : 48, "Ligt" : 48, "Holy" : 48, "Boost": 53],
       "Scaling" : ["Str" : "C", "Dex" : "E"],
       "Requires" : ["Str" : 40, "Dex" : 14],
       "Other" : ["Skill" : "Oath of Vengeance", "FP" : 20, "Wgt" : 21.0, "Passive" : null]
-    }
   ]
   "buffed" : [
-    {
       "Attack" : ["Phy" : "+5"],
       "Guard" : ["Boost" : "+10"]
-    }
   ]
   "nerfed" : []
 }
