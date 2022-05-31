@@ -42,36 +42,30 @@ Comparison data (ie... buffed and/or nurfed) is scraped from archieved versions 
 
 
 ## Project Notes:
-1. Web scraper needs to parse the Elden Ring Wiki Patch Notes page first
-2. Once a weapon name is found, when parsing the text of the patch notes, (probably have to generate a massive json file of Weapon names regex in order to achieve parsed info),
-create a new web scraper to parse info from the Wiki and generate a new Json file from that info. This will account for the current version of the weapon
-3. Now it's time to scrape the way back machine
-4. Get the released date of the patch from the newly created Json file
-5. Parse way back machine for an elden ring wiki entry no greater than a month before the current patch
-6. Once the before-patch scraper finds an entry, generate the before-patch json file
-7. compare the values of the weapon attributes and generate buffed and nerfed data entries
-8. Generate post-patch json that includes the wiki entry + nurfed and buffed entries
-9. Respond with the post-patch json
+1. Input search term fires CLI "search" command  
+2. Web scrapper parses the Elden Ring Wiki Patch Notes page
+3. If the scrapper finds mention of the weapon name, a new scrapper mines the current info of the weapon's attributes or else throws an error
+4. Post-patch and Pre-patch scrappers gather data of current and previous weapon attributes
+5. Compare post-patch and pre-patch data
+6. Calculate nerfed and buffed entries with the data
+7. Client Response with JSON output outlined above
 
-## Plan:
-1. parse elden ring wiki patch notes
-2. generate a list of weapon name mentions in the patch notes
-3. for each weapon name in the list, lookup current entry and previous entry (way back machine) of elden ring wiki for that weapon name
-4. generate json file as described above
 
 ## Concerns
 - scraping the waybackmachine may only find an extremely old entry, or no entry at all.
 - the sweet spot should be found between patches, so probably no more than a month old
 
 ## Out of scope
-- when looking through recent updates, I found that sometimes the elden ring devs will make adjustments to lets say
-"jump attack" damage. Any other damage buff or nurf other than the attributes measurable from what is available
-on the elden ring wiki will be omitted. There is no "jump attack" attribute for a weapon. If it is possible to calculate
-this param than I might include it in the future. Another example is "Casting speed", which appears to be adjusted
-for magic type weapons often. Updates to something like casting speed should theoretically increase the dps of a weapon,
-however, once again, this would fall out of scope because dps is not listed under a weapons attributes by default.
-
 - As of right now, I'm only looking at weapons. Armor, Ashes of War, Talismans, Arrows, etc... could be implemented in the future
+- When looking through recent updates, I found that sometimes the elden ring devs will make adjustments to weapon attributes like,
+"jump attack". Any other damage buff or nurf other than the attributes measurable from what is available
+on the elden ring wiki weapon entry will be omitted. 
+- Another example is "Casting speed", which appears to be adjusted
+for magic type weapons often. Updates to something like casting speed should theoretically increase the dps of a weapon,
+however, once again, this would fall out of scope because dps or "Casting speed" is not listed under a weapons attributes by default.
+- If it is possible to calculate these values than I might include features like these in the future.
+
+
 
 
 
