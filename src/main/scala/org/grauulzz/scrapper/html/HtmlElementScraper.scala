@@ -41,4 +41,5 @@ case class HtmlElementScraper(doc: Document) {
   def getHeadListElement(html: immutable.Seq[List[Element]]): Seq[Element] = {
     html.map(_.head)
   }
+
 }

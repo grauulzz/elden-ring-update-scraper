@@ -9,7 +9,7 @@ class WeaponTest extends TestSuite {
       "Grafted Great Sword",
       "Colossal Sword",
       "1.04.1",
-      "April 27th 2022",
+      "April 27th 2022"
     )
     println(weapon)
   }
@@ -114,17 +114,21 @@ class WeaponTest extends TestSuite {
     val requiresTraits: List[Wt] = List(r1, r2)
 
     val all: Map[String, List[(Wt, Any)]] =
-      weaponAttribute.allAttr(attackTraits, guardTraits, scalingTraits, requiresTraits)
+      weaponAttribute.allAttr(
+        attackTraits,
+        guardTraits,
+        scalingTraits,
+        requiresTraits
+      )
 
     val weapon: Weapon = new Weapon(
       "Grafted Great Sword",
       "Colossal Sword",
       "1.04.1",
       "April 27th 2022",
-      all,
+      all
     )
 
     println(weapon.toJsonPretty)
   }
 }
-

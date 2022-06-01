@@ -13,15 +13,15 @@ addCommandAlias("rs", "reStart")
 addCommandAlias("s", "reStop")
 addCommandAlias(
   "styleCheck",
-  "scalafmtSbtCheck; scalafmtCheckAll",
+  "scalafmtSbtCheck; scalafmtCheckAll"
 )
 addCommandAlias(
   "styleFix",
-  "scalafmtSbt; scalafmtAll",
+  "scalafmtSbt; scalafmtAll"
 )
 addCommandAlias(
   "up2date",
-  "reload plugins; dependencyUpdates; reload return; dependencyUpdates",
+  "reload plugins; dependencyUpdates; reload return; dependencyUpdates"
 )
 
 onLoadMessage +=
@@ -29,7 +29,9 @@ onLoadMessage +=
       |╭─────────────────────────────────╮
       |│     List of defined ${styled("aliases")}     │
       |├─────────────┬───────────────────┤
-      |│ ${styled("l")} | ${styled("ll")} | ${styled("ls")} │ projects          │
+      |│ ${styled("l")} | ${styled("ll")} | ${styled(
+      "ls"
+    )} │ projects          │
       |│ ${styled("cd")}          │ project           │
       |│ ${styled("root")}        │ cd root           │
       |│ ${styled("c")}           │ compile           │

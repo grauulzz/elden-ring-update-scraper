@@ -23,6 +23,7 @@ import org.grauulzz.scrapper.html
 import org.grauulzz.scrapper.html.HtmlTag
 
 import scalaz.Leibniz.subst
+import org.grauulzz.scraper.PatchNotesDoc
 
 /** example usage: doc >> extractor(<cssQuery>, <contentExtractor>,
   * <contentParser>)
@@ -42,7 +43,10 @@ import scalaz.Leibniz.subst
   * @return
   *   the extracted data
   */
-class ContentExtractor(doc: Document) extends HtmlTag {
+class ContentExtractor() extends HtmlTag {
+
+  val doc: Document = PatchNotesDoc.get()
+
   def tagToElement(tag: HtmlTag): Element = {
     doc >> extractor(html.HtmlTag(tag), element, asIs[Element])
   }
