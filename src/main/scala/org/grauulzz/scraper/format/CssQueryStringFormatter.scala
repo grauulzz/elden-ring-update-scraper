@@ -1,6 +1,7 @@
-package org.grauulzz.scrapper.format
+package org.grauulzz.scraper.format
 
-import org.grauulzz.scrapper.html.HtmlTag
+import org.grauulzz.scraper.format.CssQueryStringFormatter.prefix
+import org.grauulzz.scraper.html.HtmlTag
 
 abstract class QueryString
 

@@ -1,4 +1,4 @@
-package org.grauulzz.scrapper.extractors
+package org.grauulzz.scraper.extractors
 
 import net.ruippeixotog.scalascraper.browser.{Browser, JsoupBrowser}
 import net.ruippeixotog.scalascraper.model.{Document, Element, ElementQuery}

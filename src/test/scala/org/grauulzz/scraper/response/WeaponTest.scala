@@ -1,6 +1,6 @@
-package org.grauulzz.scrapper.response
+package org.grauulzz.scraper.response
 
-import org.grauulzz.scrapper.TestSuite
+import org.grauulzz.scraper.TestSuite
 import org.scalatest.funsuite.AnyFunSuite
 
 class WeaponTest extends TestSuite {

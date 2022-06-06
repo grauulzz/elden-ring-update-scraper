@@ -1,5 +1,5 @@
 package org.grauulzz
-package scrapper
+package scraper
 
 import scala.language.adhocExtensions
 

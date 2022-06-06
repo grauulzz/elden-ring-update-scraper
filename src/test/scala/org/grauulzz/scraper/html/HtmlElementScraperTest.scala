@@ -1,4 +1,4 @@
-package org.grauulzz.scrapper
+package org.grauulzz.scraper.html
 
 import org.scalatest.funsuite.AnyFunSuite
 import net.ruippeixotog.scalascraper.browser.{Browser, JsoupBrowser}
@@ -6,6 +6,7 @@ import net.ruippeixotog.scalascraper.model.{Document, Element}
 import net.ruippeixotog.scalascraper.dsl.DSL.*
 import net.ruippeixotog.scalascraper.dsl.DSL.Extract.*
 import net.ruippeixotog.scalascraper.dsl.DSL.Parse.*
+import org.grauulzz.scraper.TestSuite
 
 import scala.collection.immutable
 

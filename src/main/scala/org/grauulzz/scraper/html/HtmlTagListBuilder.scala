@@ -1,6 +1,4 @@
-package org.grauulzz.scrapper.html
-
-import org.grauulzz.scrapper.html
+package org.grauulzz.scraper.html
 
 import scala.collection.mutable.ArrayBuffer
 
@@ -73,8 +71,10 @@ case object HtmlTag {
 }
 
 object HtmlTagListBuilder {
+
   val tags: ArrayBuffer[String] = ArrayBuffer[String]()
   def addTag(t: HtmlTag): Unit = tags += HtmlTag.apply(t)
+  def addAll(ts: List[HtmlTag]): Unit = tags ++= ts.map(HtmlTag.apply)
   def removeTag(t: HtmlTag): Unit = tags -= HtmlTag.apply(t)
   def removalAllTags(): Unit = tags.clear()
   def getTags: ArrayBuffer[String] = tags
@@ -85,4 +85,5 @@ object HtmlTagListBuilder {
       true
     } catch case _: IllegalArgumentException => false
   }
+
 }

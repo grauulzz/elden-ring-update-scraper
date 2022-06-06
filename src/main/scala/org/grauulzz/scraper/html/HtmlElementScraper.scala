@@ -1,4 +1,4 @@
-package org.grauulzz.scrapper
+package org.grauulzz.scraper.html
 
 import net.ruippeixotog.scalascraper.browser.JsoupBrowser.JsoupDocument
 import net.ruippeixotog.scalascraper.browser.{Browser, JsoupBrowser}

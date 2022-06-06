@@ -1,6 +1,6 @@
-package org.grauulzz.scrapper.html
+package org.grauulzz.scraper.html
 
-import org.grauulzz.scrapper.TestSuite
+import org.grauulzz.scraper.TestSuite
 
 class HtmlTagListBuilderTest extends TestSuite {
 

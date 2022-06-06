@@ -1,4 +1,4 @@
-package org.grauulzz.scrapper.response
+package org.grauulzz.scraper.response
 
 import com.google.gson.{Gson, GsonBuilder, JsonArray, JsonObject}
 

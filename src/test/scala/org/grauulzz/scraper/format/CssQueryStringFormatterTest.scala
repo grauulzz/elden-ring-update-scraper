@@ -1,7 +1,7 @@
-package org.grauulzz.scrapper.format
+package org.grauulzz.scraper.format
 
-import org.grauulzz.scrapper.TestSuite
-import org.grauulzz.scrapper.html.HtmlTag
+import org.grauulzz.scraper.TestSuite
+import org.grauulzz.scraper.html.HtmlTag
 import org.scalatest.funsuite.AnyFunSuite
 
 class CssQueryStringFormatterTest extends TestSuite {
